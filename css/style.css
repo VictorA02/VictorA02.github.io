@@ -232,10 +232,6 @@ footer {
     font-weight: 500;
     line-height: 2rem;
 }
-.sobre p:nth-child(5) {
-    padding-bottom: 5vh;
-}
-
 
 /* HABILIDADES */
 /* HABILIDADES */
@@ -267,9 +263,6 @@ footer {
     font-weight: 500;
     line-height: 2rem;
 }
-.habilidades p:nth-child(3) {
-    padding-bottom: 5vh;
-}
 
 /* CONHECIMENTOS */
 /* CONHECIMENTOS */
@@ -300,9 +293,6 @@ footer {
     font-size: 1.5rem;
     font-weight: 500;
     line-height: 2rem;
-}
-.conhecimentos p:nth-child(7) {
-    padding-bottom: 5vh;
 }
 
 /* DIFERENCIAS */
@@ -342,9 +332,7 @@ footer {
     font-weight: 500;
     line-height: 2rem;
 }
-.diferenciais p:nth-child(9) {
-    padding-bottom: 5vh;
-}
+
 /* CONTATO */
 /* CONTATO */
 
